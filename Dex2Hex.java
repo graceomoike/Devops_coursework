@@ -19,7 +19,7 @@ public static int Arg1;
         }
 
         System.out.println("Hexadecimal representation is: " + hexadecimal);
-	System.out.println("Number has been converted!");
+	System.out.println("A Number has been converted!");
 
     }
 }
